@@ -1,5 +1,0 @@
-﻿# student-project
-
-Hello Myself Shravani Kolape.
-IT Shaala - Full Stack Development(java) 
-13th Aug - Offline Session
