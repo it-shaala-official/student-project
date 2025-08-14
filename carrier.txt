@@ -9,4 +9,4 @@ Here’s a clear breakdown so you can see the paths you could take:
 * AI/ML frameworks (TensorFlow, PyTorch)
 * Cybersecurity tools (SIEM, firewalls, penetration testing tools)
 * DevOps tools (Docker, Kubernetes, Jenkins)
-* Data tools (SQL, Power BI, Tableau)
+
