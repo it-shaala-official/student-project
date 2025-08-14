@@ -1,0 +1,4 @@
+//this is aditya pal
+console.log(hello );
+printf("hello world");
+cout<<"hello world";
