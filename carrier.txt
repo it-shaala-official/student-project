@@ -1,0 +1,12 @@
+Career opportunities in the *IT industry* are vast because technology is deeply integrated into almost every sector today.
+Here’s a clear breakdown so you can see the paths you could take:
+
+
+     *Skills in demand in the IT industry right now*:
+
+* Programming (Python, Java, JavaScript, C#)
+* Cloud platforms (AWS, Azure, GCP)
+* AI/ML frameworks (TensorFlow, PyTorch)
+* Cybersecurity tools (SIEM, firewalls, penetration testing tools)
+* DevOps tools (Docker, Kubernetes, Jenkins)
+* Data tools (SQL, Power BI, Tableau)
